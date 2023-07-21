@@ -7,6 +7,10 @@ name = "pypi"
 jupyter = "*"
 boto3 = "*"
 awscli = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+coverage = "*"
 
 [dev-packages]
 
